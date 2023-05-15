@@ -559,7 +559,7 @@ img {
 
 .qualification_calendar {
     font-size: var(--small-font-size);
-    color: var(--first-color-second);
+    color: var(--text-color-light);
     margin-bottom: var(--mb-2-5);
 }
 
