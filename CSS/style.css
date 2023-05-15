@@ -866,7 +866,7 @@ img {
 }
 
 /* *========== For Small Devices ========== */
-@media screen and (max-width:350px) {
+@media screen and (max-width:280px) {
 
     .container {
         margin-left: var(--mb-1);
@@ -874,7 +874,7 @@ img {
     }
 
     .nav_menu {
-        padding: 2rem 0.25rem 4rem;
+        padding: 2rem 0.25rem 3.5rem;
     }
 
     .nav_list {
