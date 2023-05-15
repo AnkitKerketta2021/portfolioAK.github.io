@@ -874,7 +874,7 @@ img {
     }
 
     .nav_menu {
-        padding: 2rem 0.25rem 3.5rem;
+        padding: 1rem 0.25rem 2.5rem;
     }
 
     .nav_list {
@@ -917,7 +917,7 @@ img {
     }
     .nav{
         justify-content: center;
-        gap: 5rem;
+        gap: 2rem;
      }
      .scrollup {
         right: 2rem;
