@@ -866,7 +866,7 @@ img {
 }
 
 /* *========== For Small Devices ========== */
-@media screen and (max-width:350px) {
+@media screen and (max-width:360px) {
 
     .container {
         margin-left: var(--mb-1);
@@ -915,6 +915,10 @@ img {
         grid-template-columns: max-content;
         justify-content: center;
     }
+    .nav{
+        justify-content: center;
+        gap: 5rem;
+     }
 
 }
 
