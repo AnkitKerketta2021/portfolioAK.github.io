@@ -919,8 +919,13 @@ img {
         justify-content: center;
         gap: 5rem;
      }
+     .scrollup_icon{
+       left: 260px;
+     }
      .scrollup{
-        margin-right: 1.5rem;
+        position: relative;
+        left: 260px;
+        padding: 5px;
      }
 
 }
