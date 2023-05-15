@@ -17,11 +17,11 @@ html {
 :root {
     --header-height: 3rem;
     /* ?===== Colors ===== */
-    --hue-color: 222;
+    --hue-color: 220;
     /* Green 142, Blue 230, Pink 340*/
     /* ?===== HSL Color mode ===== */
-    --first-color: hsl(var(--hue-color), 60%, 55%);
-    --first-color-second: hsl(var(--hue-color), 60%, 48%);
+    --first-color: hsl(var(--hue-color), 60%, 56%);
+    --first-color-second: hsl(var(--hue-color), 60%, 50%);
     --first-color-alt: hsl(var(--hue-color), 50%, 45%);
     --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
     --title-color: hsl(var(--hue-color), 8%, 15%);
